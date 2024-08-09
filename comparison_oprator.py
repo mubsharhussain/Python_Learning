@@ -1,0 +1,12 @@
+z=3<2
+print(z)
+x=3<=2
+print(x)
+c=3>2
+print(c)
+v=3>=2
+print(v)
+b=3==2
+print(b)
+n=3!=2
+print(n)
